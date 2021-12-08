@@ -1,4 +1,4 @@
 # Carousel
 
-Primeiro portifolio de JavaScript, 100% funcional.                      
+Primeiro portfólio de JavaScript, 100% funcional.                      
 Link:
