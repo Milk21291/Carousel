@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(to left, rgb(15, 84, 214), rgb(226, 226, 226));
+}
+
+.carousel{
+    margin-left: -6px;
+    overflow: hidden;
+    border-radius: 800px;
+    }
+    .container{
+    display: flex;
+    transition: transform 1.0s ease-in-out;
+    transform: translateX(0);
+    }
+    
+    .img{
+        object-fit: cover;
+      }
